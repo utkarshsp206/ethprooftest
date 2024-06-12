@@ -57,6 +57,9 @@ contract MyToken {
 
 ```
 
+## Screenshot 
+![Alt text](/Solidityss.jpg?raw=true )
+
 
 ## Authors
 
