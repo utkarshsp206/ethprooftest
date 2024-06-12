@@ -58,7 +58,7 @@ contract MyToken {
 ```
 
 ## Screenshot 
-![Alt text](/Solidityss.jpg?raw=true )
+![Alt text](SoliditySS.jpg?raw=true "Remix Output")
 
 
 ## Authors
